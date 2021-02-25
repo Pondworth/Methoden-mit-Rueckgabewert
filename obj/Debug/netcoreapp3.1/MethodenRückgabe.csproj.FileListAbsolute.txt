@@ -1,0 +1,12 @@
+C:\Users\sayur\source\repos\MethodenRückgabe\obj\Debug\netcoreapp3.1\MethodenRückgabe.AssemblyInfoInputs.cache
+C:\Users\sayur\source\repos\MethodenRückgabe\obj\Debug\netcoreapp3.1\MethodenRückgabe.AssemblyInfo.cs
+C:\Users\sayur\source\repos\MethodenRückgabe\obj\Debug\netcoreapp3.1\MethodenRückgabe.csproj.CoreCompileInputs.cache
+C:\Users\sayur\source\repos\MethodenRückgabe\bin\Debug\netcoreapp3.1\MethodenRückgabe.exe
+C:\Users\sayur\source\repos\MethodenRückgabe\bin\Debug\netcoreapp3.1\MethodenRückgabe.deps.json
+C:\Users\sayur\source\repos\MethodenRückgabe\bin\Debug\netcoreapp3.1\MethodenRückgabe.runtimeconfig.json
+C:\Users\sayur\source\repos\MethodenRückgabe\bin\Debug\netcoreapp3.1\MethodenRückgabe.runtimeconfig.dev.json
+C:\Users\sayur\source\repos\MethodenRückgabe\bin\Debug\netcoreapp3.1\MethodenRückgabe.dll
+C:\Users\sayur\source\repos\MethodenRückgabe\bin\Debug\netcoreapp3.1\MethodenRückgabe.pdb
+C:\Users\sayur\source\repos\MethodenRückgabe\obj\Debug\netcoreapp3.1\MethodenRückgabe.dll
+C:\Users\sayur\source\repos\MethodenRückgabe\obj\Debug\netcoreapp3.1\MethodenRückgabe.pdb
+C:\Users\sayur\source\repos\MethodenRückgabe\obj\Debug\netcoreapp3.1\MethodenRückgabe.genruntimeconfig.cache
