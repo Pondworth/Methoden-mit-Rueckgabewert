@@ -1,5 +1,7 @@
-# Methoden-mit-Rueckgabewert
-Addition, Multiplikation, Divison, Substraktion
+# Methoden-mit-Rueckgabewert  
+  
+Addition, Multiplikation, Divison, Substraktion  
+Thx for the Tutorials https://www.youtube.com/channel/UCVdfgrCLfJQfO5EgPlzaYAQ (German)  
 
 ```c#
 using System;
